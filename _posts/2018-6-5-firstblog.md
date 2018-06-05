@@ -7,4 +7,3 @@ title: Blogging Like a Hacker
 ---
 
 ## TEST
-
