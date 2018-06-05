@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+layout: post
+title: Blogging Like a Hacker
 ---
 ## A New Post
 
